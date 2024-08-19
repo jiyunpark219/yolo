@@ -47,7 +47,7 @@ python train.py owlite --project <owlite_project_name> --baseline <owlite_baseli
 ## Results
 
 <details>
-<summary>YOLOv5-S</summary>
+<summary>YOLOv5-N</summary>
 
 ### Configuration
 
