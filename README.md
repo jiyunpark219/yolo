@@ -76,7 +76,6 @@ TensorRT Evaluation GPU: A6000
 - The INT8 TensorRT engine was built by applying FP16 and INT8 flags using [Polygraphy](https://github.com/NVIDIA/TensorRT/tree/main/tools/Polygraphy), as further explained in [TRT Developer Guide](https://docs.nvidia.com/deeplearning/tensorrt/developer-guide).
 </details>
 
-## Results
 
 <details>
 <summary>YOLOv5-S</summary>
